@@ -13,7 +13,7 @@ Wszystkie pliki w projekcie muszą być odzipowane.
 
 > project                                                                        <-- folder projektu
 > 1. |____ Input                                                                    <-- folder, w którym znajdują się dane
-> a. |   |__ K3.G7.P2137 Ludność wg wieku i płci, 60+                               <-- folder z danymi źródłowymi
+>> 1. |   |__ K3.G7.P2137 Ludność wg wieku i płci, 60+                               <-- folder z danymi źródłowymi
 > * |       |__ LUDN_2137_CREL_20240707161221.csv                                  <-- plik .csv
 > a. |   |__ K22.G261.P1808 Szpitale z oddziałami geriatrycznymi 2018-2022          <-- folder z danymi źródłowymi
 > * |       |__ OCHR_1808_CREL_20240705143116.csv                                  <-- plik .csv
